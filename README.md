@@ -33,5 +33,13 @@ Vodê pode conferir o curso de React.js da Rocketseat [clicando aqui](https://ro
 ##### _Nome da Branch: reactjs_
 
 
+### __Curso de Node.JS__
+
+<p>API desenvolvida acompanhando o curso de NodeJS da Rocketseat :)</p>
+
+Nele o felipe apresenta os conceitos iniciais do NodeJS e Mongoose de uma forma prática e de brinde nos apresenta o insomnia. Não soube como ilustrar esse projeto, mas basicamente é uma API que retorna titulo, descrição e url de um produto. Nela eu consigo cadastrar, pesquisar, ver detalhes e muito mais. Além disso o projeto segue o modelo de MVC.
+
+Vodê pode conferir o curso de Node.js da Rocketseat [clicando aqui](https://rocketseat.com.br/starter)
 
 
+##### _Nome da Branch: nodejs_
