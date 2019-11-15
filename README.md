@@ -1,6 +1,6 @@
 # Cursos da Rocketseat
 Projetos desenvolvidos durante os cursos realizados na Rocketseat :)
-_Cada projeto é uma branch
+_Cada projeto é uma branch_
 
 ### __CodeQuinta #6 - Construindo layouts no React Native__
 Projeto desenvolvido por mim em React Native acompanhando a live do Youtube do canal da Rocketseat.
