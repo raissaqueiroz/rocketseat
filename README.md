@@ -15,6 +15,16 @@ Você pode encontrar a live [clicando aqui](https://www.youtube.com/watch?v=Q7gT
 
 ##### _Nome da Branch: codequinta-6_
 
+### __Curso de React.JS__
+
+Projeto desenvolvido por mim acompanhando o curso de ReactJS da Rocketseat :)
+
+Nele o felipe apresenta os conceitos iniciais do ReactJS e nos mostra como utilizar alguns pacotes como o React-routes-dom e o Axios.
+
+Vodê pode conferir o curso de React.js da Rocketseat [clicando aqui](https://rocketseat.com.br/starter)
+
+##### _Nome da Branch: reactjs_
+
 
 
 
