@@ -26,5 +26,11 @@ Vodê pode conferir o curso de React.js da Rocketseat [clicando aqui](https://ro
 ##### _Nome da Branch: reactjs_
 
 
+### __React Hooks na prática__
 
+Projeto desenvolvido durante a aula sobre hooks que o Felipe disponibilizou no canal da Rocketseat. Ele nos apresenta esse novo conceito que chega como alternativa ao state e nos ensina de forma prática como utilizar desenvolvendo um projeto genérico que consome a api do github.
+
+Você pode conferir essa aula [clicando aqui](https://www.youtube.com/watch?v=6WB16wZS61c)
+
+###### _Nome da Branch: githooks
 
