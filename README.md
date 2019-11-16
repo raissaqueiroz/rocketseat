@@ -1,6 +1,16 @@
 # Cursos da Rocketseat
 Projetos desenvolvidos durante os cursos realizados na Rocketseat :)
+
 _Cada projeto é uma branch_
+
+## Guia Rápido das Branchs
+
+<ul>
+  <li>CodeQuinta #6 - Construindo layouts no React Native: <b>codequinta-6</b></li>
+  <li>Curso de React.JS: <b>reactjs</b></li>
+  <li>Curso de Node.JS: <b>nodejs</b></li>
+  <li>React Hooks na prática: <b>githooks</b></li>
+ </ul>
 
 ### __CodeQuinta #6 - Construindo layouts no React Native__
 <p align="center">
