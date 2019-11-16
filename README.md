@@ -23,7 +23,7 @@ Nesse curso o Felipe ensina a estrutar um layout básico usando React Native apr
 
 Você pode encontrar a live [clicando aqui](https://www.youtube.com/watch?v=Q7gT462aBU0&list=PL85ITvJ7FLojBfY7TifCq7P417AZdsP4k&index=7&t=0s)
 
-##### _Nome da Branch: codequinta-6_
+###### _Nome da Branch: codequinta-6_
 
 ### __Curso de React.JS__
 
@@ -40,7 +40,7 @@ Nele o felipe apresenta os conceitos iniciais do ReactJS e nos mostra como utili
 
 Vodê pode conferir o curso de React.js da Rocketseat [clicando aqui](https://rocketseat.com.br/starter)
 
-##### _Nome da Branch: reactjs_
+###### _Nome da Branch: reactjs_
 
 
 ### __Curso de Node.JS__
@@ -51,7 +51,7 @@ Nele o felipe apresenta os conceitos iniciais do NodeJS e Mongoose de uma forma 
 
 Vodê pode conferir o curso de Node.js da Rocketseat [clicando aqui](https://rocketseat.com.br/starter)
 
-##### _Nome da Branch: nodejs_
+###### _Nome da Branch: nodejs_
 
 ### __React Hooks na prática__
 
@@ -59,4 +59,4 @@ Projeto desenvolvido durante a aula sobre hooks que o Felipe disponibilizou no c
 
 Você pode conferir essa aula [clicando aqui](https://www.youtube.com/watch?v=6WB16wZS61c)
 
-###### _Nome da Branch: githooks
+###### _Nome da Branch: githooks_
