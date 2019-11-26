@@ -10,6 +10,7 @@ _Cada projeto é uma branch_
   <li>Curso de React.JS: <b>reactjs</b></li>
   <li>Curso de Node.JS: <b>nodejs</b></li>
   <li>React Hooks na prática: <b>githooks</b></li>
+  <li>Desvendando Redux na prática: <b>reactredux</b></li>
  </ul>
 
 ### __CodeQuinta #6 - Construindo layouts no React Native__
@@ -60,3 +61,11 @@ Projeto desenvolvido durante a aula sobre hooks que o Felipe disponibilizou no c
 Você pode conferir essa aula [clicando aqui](https://www.youtube.com/watch?v=6WB16wZS61c)
 
 ###### _Nome da Branch: githooks_
+
+### __Desvendando Redux na prática__
+
+Projeto desenvolvido durante a aula prática sobre Redux que o Felipe disponibilizou no canal da Rocketseat. Ele nos apresenta os novos conceitos de reducers, actions e nos ensina de forma prática como utilizar o redux em nossos projetos desenvolvendo um projeto genérico que ilustra a comunicação entre dois componentes.
+
+Você pode conferir essa aula [clicando aqui](https://www.youtube.com/watch?v=u99tNt3TZf8)
+
+###### _Nome da Branch: reactredux_
